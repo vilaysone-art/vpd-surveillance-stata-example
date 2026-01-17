@@ -14,7 +14,8 @@ All data used in this project are simulated and do not contain real or
 confidential information.
 
 ## Software
-- Stata (version 16 or higher recommended)
+- Stata (version 16)
 
 ## Author
-Ky
+vilaysone
+

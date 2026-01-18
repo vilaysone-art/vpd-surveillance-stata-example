@@ -13,7 +13,7 @@ headers = [
 ]
 ws.append(headers)
 
-# Fake data
+# Data
 data = [
     [1, 5, "Female", "Vientiane", 1, 1, 1, 0, 0, 1],
     [2, 12, "Male", "Luang Prabang", 0, 0, 0, 1, 1, 0],
@@ -23,3 +23,4 @@ data = [
     [6, 8, "Male", "Phongsaly", 0, 0, 0, 1, 1, 0],
     [7, 19, "Female", "Xieng Khouang", 1, 1, 1, 0, 0, 1],
     [8, 60, "Male", "Attapeu", 0,
+

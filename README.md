@@ -1,7 +1,7 @@
 # HBV Surveillance –
 
 This repository provides an example of Stata-based epidemiological analysis
-prepared for a WHO application.
+
 
 ## Objectives
 - Demonstrate data cleaning and management in Stata
@@ -18,5 +18,6 @@ confidential information.
 
 ## Author
 vilaysone
+
 
 

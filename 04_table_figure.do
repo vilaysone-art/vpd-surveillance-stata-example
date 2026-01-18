@@ -1,5 +1,5 @@
 * Load cleaned data
-use "clean_fever_data.dta", clear
+use "clean_HBV_data.dta", clear
 
 * Calculate prevalence
 mean fever_2w hhbv_infection
@@ -10,3 +10,4 @@ graph bar (mean) fever_2w hbv_infection, ///
     title("Disease Surveillance Prevalence") ///
     legend(label(1 "fever (last 2 weeks)") ///
            label(2 "HBV infection"))
+
